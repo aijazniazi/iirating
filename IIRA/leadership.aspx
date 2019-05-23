@@ -6,7 +6,7 @@
 <head id="Head1" runat="server">
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-     <title>iirating Co. Ltd.</title>
+     <title>IIRATING Co. Ltd.</title>
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
    
         <!-- custom -->
